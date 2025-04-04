@@ -2,15 +2,14 @@
 # Retail Sales Analytics 
 
 ## Table Of Content
--
--
--
--
--
--
--
--
--
+- [Project Overview](#Project-Overview)
+- [Tools Used](#Tools-Used)
+- [Dataset Descroption](#Dataset-Descroption)
+- [Key Columns in the Dataset](#Key-Columns-in-the-Dataset)
+- [Key Metrics & Insights](#Key-Metrics-&-Insights)
+- [Dashboard Preview](#Dashboard-Preview)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
 
 ## Project Overview
 This Sales Analytics Dashboard provides insights into key business metrics, including sales revenue, total cost, net profit, and total orders. The dashboard helps analyze revenue distribution across different countries, product categories, and payment methods while also tracking order status and sales trends over time.
