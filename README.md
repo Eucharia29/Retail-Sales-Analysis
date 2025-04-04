@@ -72,7 +72,7 @@ The dataset used for this dashboard contains sales transaction records, includin
 
 ## Dashboard Preview
 
-
+<img width="927" alt="Image" src="https://github.com/user-attachments/assets/84953849-a7dd-44f6-b318-de4ed5d21a57" />
 
 ## Challenges Faced
 - **Data Cleaning:** Handling missing values and formatting issues in Excel.
