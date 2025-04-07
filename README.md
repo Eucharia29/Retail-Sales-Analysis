@@ -85,7 +85,7 @@ The dataset used for this dashboard contains sales transaction records, includin
 - **Increase Inventory for High-Demand Products:** Electronics, Home & Kitchen, and Sports & Outdoors categories should be prioritized.
 
 ## Conclusion
-This Excel-based Sales Analytics Dashboard provides a comprehensive view of business performance. The analysis highlights key revenue drivers, customer payment behavior, and order trends, helping businesses make data-driven decisions to improve sales and profitability.
+This Excel based Sales Analytics Dashboard provides a comprehensive view of business performance. The analysis highlights key revenue drivers, customer payment behavior, and order trends, helping businesses make data-driven decisions to improve sales and profitability.
 
 
 
